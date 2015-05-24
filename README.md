@@ -1,2 +1,2 @@
 # pizza
-This is a java sample program for beginners.
+This is a Java sample program for beginners.
